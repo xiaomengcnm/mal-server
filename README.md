@@ -1,2 +1,2 @@
-# mal-server
+# mall-server
 e-mall-server
